@@ -1,29 +1,42 @@
-# Angchjv02
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+# Set an Enviroment of Angular
+### Install a Node.js 
+https://nodejs.org/ko/
+### Install a Augular CLI
+﻿https://cli.angular.io/
+```sh
+﻿npm install -g @angular/cli@latest
+```
+```sh
+﻿npm install --save-dev @angular/cli@latest
+```
+**check a [npm version]**
+```sh
+﻿npm version
+```
+### Install a plugin-in [Intelli-J] 
+**empty project**
+- [File] - [Settings] - [Plugins] - Angular and AugularJS (able)
+- [File] - [Settings] - [Plugins] - NodeJS (able)
+- [File] - [Settings] - [Languages & Frameworks ] - Node.js and NPM - angular-cli (V)
+- 
+**프로젝트 생성**
 
-## Development server
+- [File] - [New] - [Project] - [Static Web]
+- Angular CLI (선택)
+- Angular JS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+> Node interpreter : node.exe 저장 위치
+> Angular CLI : (node_modules)\@angular\cli 저장 위치
 
-## Code scaffolding
+**Finish**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [npm] tab -> [start] 목록 우클릭 -> Run 'start'
 
-## Build
+**or**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-
-2020-03-04, pm 14:32 set an environment
+- cmd창 angular 프로젝트 경로 -> ng serve
+- 
+***Author.  choilocal***
+***choihyunji1103@gmail.com***
+***https://github.com/CHOILOCAL***
