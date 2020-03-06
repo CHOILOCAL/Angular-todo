@@ -1,10 +1,15 @@
 #Version
 
 >Anaular CLI : 9.0.4
+>
 >Node: 13.8.0
+>
 >OS: darwin x64
+>
 >Angular: 9.0.4
+>
 >typescript: 3.7.5
+>
 >webpack: 4.41.2
 
 
