@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TimeDisplayComponent implements OnInit {
 
+
+  test = '시간값'; // 문자열 변수 지정
+
+
   constructor() { }
 
   ngOnInit(): void {
