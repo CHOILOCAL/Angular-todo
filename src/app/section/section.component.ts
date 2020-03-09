@@ -10,6 +10,10 @@ export class SectionComponent implements OnInit {
 
   constructor() { }
 
+  startTime(){
+    console.log("섹션 컴포넌트가 잘 받았다"); 
+  }
+
 
 
   ngOnInit(): void {
